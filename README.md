@@ -5,7 +5,7 @@ Pequeña API en flask:
 
 ## Setup
 
-Creamos una carpeta para el proyecto (ej: C:\2026-IFCT095PO-GR1-flask)
+Creamos una carpeta para el proyecto (ej: ```C:\python\2026-IFCT095PO-GR1-flask```)
 Navegamos a la carpeta y en ella:
 
 Creamos el entorno virtual
